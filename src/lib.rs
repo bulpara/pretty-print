@@ -6,10 +6,10 @@
 /// # Examples
 ///
 /// ```
-/// use pretty_print::pretty_print;
+/// use pretty_printer::pretty_print;
 ///
 /// let my_data = vec![1, 2, 3];
-/// pretty_print!(my_data);
+/// pretty_printer!(my_data);
 /// ```
 ///
 /// This will output:

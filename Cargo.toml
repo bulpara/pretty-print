@@ -1,6 +1,6 @@
 [package]
 name = "pretty-printer"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Irfan Eralp Kavakli"]
 description = "A macro to simplify pretty-printing complex structures in Rust"

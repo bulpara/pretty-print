@@ -24,7 +24,7 @@ After adding pretty-printer to your dependencies, you can use the `pretty_print!
 ### Example
 
 ```rust
-use pretty_print::pretty_print;
+use pretty_printer::pretty_print;
 
 fn main() {
     let my_data = vec![1, 2, 3, 4];
