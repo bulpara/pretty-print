@@ -1,10 +1,10 @@
 [package]
-name = "pretty-print"
+name = "pretty-printer"
 version = "0.1.0"
 edition = "2021"
 authors = ["Irfan Eralp Kavakli"]
 description = "A macro to simplify pretty-printing complex structures in Rust"
 license = "MIT"
-repository = "https://github.com/bulpara/pretty-print"
+repository = "https://github.com/bulpara/pretty-printer"
 
 [dependencies]

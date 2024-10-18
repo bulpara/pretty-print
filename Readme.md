@@ -1,14 +1,14 @@
-# pretty-print
+# pretty-printer
 
-`pretty-print` is a Rust library that provides a convenient macro for pretty-printing complex data structures using Rust's `println!("{:#?}", x)` functionality. Instead of manually writing `println!("{:#?}", x)` every time, you can use the `pretty_print!` macro to simplify your code.
+`pretty-printer` is a Rust library that provides a convenient macro for pretty-printing complex data structures using Rust's `println!("{:#?}", x)` functionality. Instead of manually writing `println!("{:#?}", x)` every time, you can use the `pretty_print!` macro to simplify your code.
 
 ## Installation
 
-To use `pretty-print` in your project, add the following to your `Cargo.toml` file:
+To use `pretty-printer` in your project, add the following to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-pretty-print = "0.1.0"
+pretty-printer = "0.1.0"
 ```
 
 Then, run:
@@ -19,7 +19,7 @@ cargo build
 
 ## Usage
 
-After adding pretty-print to your dependencies, you can use the `pretty_print!` macro to pretty-print your data structures in an easy-to-read format.
+After adding pretty-printer to your dependencies, you can use the `pretty_print!` macro to pretty-print your data structures in an easy-to-read format.
 
 ### Example
 
